@@ -211,7 +211,6 @@ strict/
 Firestore/
 ├── users/{uid}
 │   ├── email, displayName, customId, avatarIndex
-│   ├── deviceToken          ← FCM token for single-device enforcement
 │   ├── appLocale            ← "en" | "ar" for localised notifications
 │   ├── createdAt
 │   └── reports/{customId}_{date}
