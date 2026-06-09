@@ -1,10 +1,10 @@
 <div align="center">
 
 # 📱 STRICT
-### Parental Monitoring Application
+### An AI-Based System for Screen Content Monitoring and Automated Reporting
 
 
-**Suez University — Faculty of Computers and Information**  
+**Suez University — Faculty of Science**  
 **Graduation Project · Academic Year 2025–2026**
 
 *Supervised by Dr. Fatma Said Abousaleh*
